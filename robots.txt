@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://agsautopark.com/sitemap.xml
+
+# SEO Directives
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
